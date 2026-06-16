@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env
+
+# Logs
+backend/logs/
+*.log
+
+# Generated Files
+backend/uploads/
+backend/outputs/
+
+# Database
+backend/jobs.db
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
